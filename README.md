@@ -12,6 +12,7 @@ Base técnica essencial: domine a linguagem Java e, em seguida, o ecossistema Sp
 
 - [ ] [Java COMPLETO — Nelio Alves (Udemy)](https://www.udemy.com/course/java-curso-completo/)
 - [ ] [Spring Boot Expert — Douglas (Udemy)](https://www.udemy.com/course/spring-boot-expert/?couponCode=KEEPLEARNING)
+- [ ] [Git e GitHub do Básico ao Avançado (Udemy)](https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages/)
 
 ### Vídeos complementares (dicas valiosas)
 
